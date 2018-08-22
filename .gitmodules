@@ -1,4 +1,4 @@
 [submodule "module"]
 	path = module
 	url = https://github.com/tmpTest123/module.git
-	branch = master
+	branch = develop
